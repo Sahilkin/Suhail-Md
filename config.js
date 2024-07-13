@@ -74,13 +74,13 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.4",
   caption : global.caption || "" , // ```『 https://whatsapp.com/channel/0029VaFv1RZ3QxRtLXfI993h』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "",
-  packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "SAHIL KING 👑",
+  author : process.env.PACK_AUTHER|| "923078283084",
+  packname: process.env.PACK_NAME || "*➻❥𓆩❥⋆⃝°°~ساحل~⋆⃝°°𓆪࿐➻❥*",
+  botname : process.env.BOT_NAME  || "SAHIL KING",
   ownername:process.env.OWNER_NAME|| "SAHIL KING",
 
 
-  errorChat : process.env.ERROR_CHAT || "",
+  erorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
 
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "",
